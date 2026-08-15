@@ -86,7 +86,7 @@
       "version": "2.3.9",
       "description": "YouTube Music metadata & download provider for AuraMusic Mobile. Search tracks, albums, playlists on YouTube Music.",
       "download_url": "https://raw.githubusercontent.com/phoenix99910/AuraMusic-Extensions/main/extensions/ytmusic-auramusic.sflx",
-      "sha256": "29e9b628c87ab0843eb2ec1e06c9fd1faec38b2b03f47f42a75b2b9565603b13",
+      "sha256": "89cb80b52a72838658813f86caaee18e22ffbfbe6018669b54908fc63e042b99",
       "icon_url": "https://raw.githubusercontent.com/phoenix99910/AuraMusic-Extensions/main/icons/ytmusic-auramusic.jpg",
       "category": "download",
       "tags": [
